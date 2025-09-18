@@ -1,0 +1,111 @@
+id,theme,story,problem_flag
+1,Detection & Tracking,As a squad leader I want my ghost radar to detect multiple entities at once so that we always have the right skills.,GOOD
+2,Customer Interface,As a field hunter I want zombie cages to log entry and exit times so that I don’t have to call but also no GPS because privacy.,PROBLEM
+3,Containment & Capture,As a archivist I want zombie cages to log entry and exit times so that I can track specimens but also support 500 zombies but also limit to 50.,PROBLEM
+4,Detection & Tracking,As a compliance officer I want schedule exorcism rooms so that I can plan my approach safely.,GOOD
+5,Records & Compliance,as inventory clerk i want schedule exorcism rooms but also detect only one ghost at time.,PROBLEM
+6,Dispatch & Logistics,As a archivist I want tag new hauntings with GPS and folklore info so that we always have the right skills.,GOOD
+7,Customer Interface,As a field agent I want schedule exorcism rooms so that I don’t miss moving targets but also no guarantee but also guarantee.,PROBLEM
+8,Detection & Tracking,As a compliance officer I want my ghost radar to detect multiple entities at once so that I don’t have to call but also no vampire incidents logged but also logged for insurance.,PROBLEM
+9,Customer Interface,As a squad leader I want zombie cages to log entry and exit times so that I don’t have to call.,GOOD
+10,Weapons & Gear,As a archivist I want tag new hauntings with GPS and folklore info so that I can track specimens.,GOOD
+11,Detection & Tracking,As a dispatcher I want vampire tracker so that I don’t have to call.,GOOD
+12,Weapons & Gear,as inventory clerk i want zombie cages to log entry and exit times but also must be invisible but also visible.,PROBLEM
+13,Records & Compliance,as inventory clerk i want vampire tracker but also auto aim but also manual aim only.,PROBLEM
+14,Customer Interface,As a dispatcher I want report recurring hauntings with pictures attached so that SpecterTek can respond quickly.,GOOD
+15,Containment & Capture,As a inventory clerk I want my ghost radar to detect multiple entities at once so that I can plan my approach safely.,GOOD
+16,Containment & Capture,As a customer I want zombie cages to log entry and exit times so that SpecterTek can respond quickly.,GOOD
+17,Customer Interface,As a dispatcher I want zombie cages to log entry and exit times so that I don’t have to call but also no guarantee but also guarantee.,PROBLEM
+18,Detection & Tracking,As a customer I want book an emergency exorcism online so that I don’t miss moving targets.,GOOD
+19,Detection & Tracking,As a inventory clerk I want zombie cages to log entry and exit times so that I don’t miss moving targets.,GOOD
+20,Weapons & Gear,As a compliance officer I want tag new hauntings with GPS and folklore info so that multiple ghosts can be processed efficiently.,GOOD
+21,Dispatch & Logistics,As a customer I want silver net to auto-tighten when a vampire hits it so that I can reroute teams.,GOOD
+22,Detection & Tracking,as field hunter i want crossbow calibration tool but also provide silver ammo but also plastic ammo.,PROBLEM
+23,Records & Compliance,As a archivist I want my ghost radar to detect multiple entities at once so that we always have the right skills but also no vampire incidents logged but also logged for insurance.,PROBLEM
+24,Records & Compliance,as dispatcher i want book an emergency exorcism online but also no guarantee but also guarantee.,PROBLEM
+25,Dispatch & Logistics,As a dispatcher I want zombie cages to log entry and exit times so that I can plan my approach safely.,GOOD
+26,Customer Interface,As a customer I want automatic flight paths for night extractions so that I don’t miss moving targets but also provide silver ammo but also plastic ammo.,PROBLEM
+27,Detection & Tracking,As a pilot I want book an emergency exorcism online so that multiple ghosts can be processed efficiently.,GOOD
+28,Dispatch & Logistics,As a compliance officer I need schedule exorcism rooms so I can plan my approach safely.,PROBLEM
+29,Records & Compliance,As a compliance officer I want silver net to auto-tighten when a vampire hits it so that we always have the right skills.,GOOD
+30,Weapons & Gear,As a inventory clerk I want crossbow calibration tool so that I can reroute teams.,GOOD
+31,Containment & Capture,As a pilot I want book an emergency exorcism online so that I can work solo but also detect only one ghost at time.,PROBLEM
+32,Dispatch & Logistics,As a property manager I want vampire tracker so that SpecterTek can respond quickly but also no GPS because privacy.,PROBLEM
+33,Weapons & Gear,As a archivist I want book an emergency exorcism online so that SpecterTek can respond quickly.,GOOD
+34,Detection & Tracking,As a field hunter I need report recurring hauntings with pictures attached so I can plan my approach safely.,PROBLEM
+35,Records & Compliance,as inventory clerk i want my ghost radar to detect multiple entities at once but also no guarantee but also guarantee.,PROBLEM
+36,Weapons & Gear,As a inventory clerk I need crossbow calibration tool so I can reroute teams.,PROBLEM
+37,Weapons & Gear,As a field agent I want my ghost radar to detect multiple entities at once so that I can work solo.,GOOD
+38,Customer Interface,As a property manager I want book an emergency exorcism online so that I can plan my approach safely.,GOOD
+39,Containment & Capture,As a customer I want schedule exorcism rooms so that future hunts are easier.,GOOD
+40,Customer Interface,as inventory clerk i want tag new hauntings with GPS and folklore info but also must be invisible but also visible.,PROBLEM
+41,Customer Interface,as compliance officer i want my ghost radar to detect multiple entities at once but also support 500 zombies but also limit to 50.,PROBLEM
+42,Weapons & Gear,As a property manager I want schedule exorcism rooms so that multiple ghosts can be processed efficiently.,GOOD
+43,Dispatch & Logistics,as squad leader i want schedule exorcism rooms but also no guarantee but also guarantee.,PROBLEM
+44,Weapons & Gear,As a field agent I want crossbow calibration tool so that I can reroute teams.,GOOD
+45,Weapons & Gear,As a field agent I need crossbow calibration tool so I can reroute teams.,PROBLEM
+46,Detection & Tracking,as inventory clerk i want tag new hauntings with GPS and folklore info but also blocked weekends but also accept bookings weekends.,PROBLEM
+47,Dispatch & Logistics,As a field agent I want tag new hauntings with GPS and folklore info so that I can work solo but also provide silver ammo but also plastic ammo.,PROBLEM
+48,Weapons & Gear,As a vampire bat I want to host the company picnic so that I can practice my speech.,PROBLEM
+49,Detection & Tracking,As a field hunter I want schedule exorcism rooms so that I can work solo.,GOOD
+50,Customer Interface,As a customer I want my ghost radar to detect multiple entities at once so that future hunts are easier.,GOOD
+51,Containment & Capture,As a property manager I want report recurring hauntings with pictures attached so that multiple ghosts can be processed efficiently but also provide silver ammo but also plastic ammo.,PROBLEM
+52,Detection & Tracking,As a field hunter I need schedule exorcism rooms so I can work solo.,PROBLEM
+53,Dispatch & Logistics,as field hunter i want report recurring hauntings with pictures attached but also must be invisible but also visible.,PROBLEM
+54,Detection & Tracking,As a squad leader I want automatic flight paths for night extractions so that I can plan my approach safely.,GOOD
+55,Records & Compliance,As a customer I want automatic flight paths for night extractions so that I can work solo.,GOOD
+56,Weapons & Gear,As a compliance officer I want my ghost radar to detect multiple entities at once so that I can track specimens.,GOOD
+57,Records & Compliance,as squad leader i want crossbow calibration tool but also no GPS because privacy.,PROBLEM
+58,Dispatch & Logistics,As a squad leader I want book an emergency exorcism online so that multiple ghosts can be processed efficiently.,GOOD
+59,Containment & Capture,As a compliance officer I want silver net to auto-tighten when a vampire hits it so that I don’t have to call but also support 500 zombies but also limit to 50.,PROBLEM
+60,Containment & Capture,As a dispatcher I want report recurring hauntings with pictures attached so that I can work solo.,GOOD
+61,Records & Compliance,As a pilot I want zombie cages to log entry and exit times so that I can track specimens.,GOOD
+62,Customer Interface,As a customer I need my ghost radar to detect multiple entities at once so future hunts are easier.,PROBLEM
+63,Detection & Tracking,as field hunter i want automatic flight paths for night extractions but also blocked weekends but also accept bookings weekends.,PROBLEM
+64,Weapons & Gear,As a compliance officer I want tag new hauntings with GPS and folklore info so that SpecterTek can respond quickly.,GOOD
+65,Containment & Capture,As a field hunter I need zombie cages to log entry and exit times so future hunts are easier.,PROBLEM
+66,Dispatch & Logistics,As a customer I want crossbow calibration tool so that I can track specimens but also auto aim but also manual aim only.,PROBLEM
+67,Customer Interface,as property manager i want zombie cages to log entry and exit times but also support 500 zombies but also limit to 50.,PROBLEM
+68,Detection & Tracking,As a squad leader I want crossbow calibration tool so that I don’t miss moving targets but also auto aim but also manual aim only.,PROBLEM
+69,Customer Interface,As a dispatcher I want crossbow calibration tool so that we always have the right skills.,GOOD
+70,Dispatch & Logistics,As a compliance officer I want schedule exorcism rooms so that I can plan my approach safely.,GOOD
+71,Containment & Capture,As a field agent I want tag new hauntings with GPS and folklore info so that SpecterTek can respond quickly.,GOOD
+72,Containment & Capture,As a inventory clerk I want vampire tracker so that we always have the right skills.,GOOD
+73,Containment & Capture,As a compliance officer I want automatic flight paths for night extractions so that I can reroute teams.,GOOD
+74,Weapons & Gear,As a pilot I want book an emergency exorcism online so that SpecterTek can respond quickly.,GOOD
+75,Containment & Capture,as archivist i want report recurring hauntings with pictures attached but also support 500 zombies but also limit to 50.,PROBLEM
+76,Weapons & Gear,As a field hunter I want my ghost radar to detect multiple entities at once so that I can work solo.,GOOD
+77,Containment & Capture,As a inventory clerk I need vampire tracker so we always have the right skills.,PROBLEM
+78,Containment & Capture,As a property manager I want zombie cages to log entry and exit times so that I can reroute teams but also blocked weekends but also accept bookings weekends.,PROBLEM
+79,Weapons & Gear,As a compliance officer I need my ghost radar to detect multiple entities at once so I can plan my approach safely.,PROBLEM
+80,Dispatch & Logistics,As a property manager I want vampire tracker so that I can track specimens.,GOOD
+81,Containment & Capture,as field agent i want vampire tracker but also auto aim but also manual aim only.,PROBLEM
+82,Weapons & Gear,As a compliance officer I want my ghost radar to detect multiple entities at once so that I can plan my approach safely.,GOOD
+83,Records & Compliance,As a field agent I want book an emergency exorcism online so that I don’t miss moving targets but also no guarantee but also guarantee.,PROBLEM
+84,Weapons & Gear,As a dispatcher I want automatic flight paths for night extractions so that future hunts are easier.,GOOD
+85,Customer Interface,As a field agent I want zombie cages to log entry and exit times so that I don’t have to call.,GOOD
+86,Containment & Capture,as inventory clerk i want schedule exorcism rooms but also auto aim but also manual aim only.,PROBLEM
+87,Records & Compliance,As a compliance officer I want book an emergency exorcism online so that future hunts are easier.,GOOD
+88,Detection & Tracking,As a zombie I want to approve the HR budget so that I can eat donuts.,PROBLEM
+89,Detection & Tracking,As a pilot I want silver net to auto-tighten when a vampire hits it so that I can track specimens.,GOOD
+90,Records & Compliance,As a compliance officer I want zombie cages to log entry and exit times so that SpecterTek can respond quickly.,GOOD
+91,Detection & Tracking,As a field hunter I want report recurring hauntings with pictures attached so that I can plan my approach safely.,GOOD
+92,Customer Interface,as inventory clerk i want silver net to auto-tighten when a vampire hits it but also no vampire incidents logged but also logged for insurance.,PROBLEM
+93,Dispatch & Logistics,As a archivist I want crossbow calibration tool so that multiple ghosts can be processed efficiently.,GOOD
+94,Customer Interface,As a dispatcher I want automatic flight paths for night extractions so that I don’t miss moving targets but also must be invisible but also visible.,PROBLEM
+95,Dispatch & Logistics,As a field hunter I want vampire tracker so that I don’t have to call.,GOOD
+96,Records & Compliance,As a archivist I want crossbow calibration tool so that multiple ghosts can be processed efficiently.,GOOD
+97,Dispatch & Logistics,As a pilot I want tag new hauntings with GPS and folklore info so that I can work solo.,GOOD
+98,Customer Interface,As a ghost intern I want to file expense reports for silver bullets so that the accountants scream.,PROBLEM
+99,Containment & Capture,As a field hunter I want zombie cages to log entry and exit times so that future hunts are easier.,GOOD
+100,Customer Interface,as undead janitor i want to schedule exorcism rooms but also manage the company TikTok.,PROBLEM
+101,Dispatch & Logistics,As a inventory clerk I want tag new hauntings with GPS and folklore info so that we always have the right skills.,GOOD
+102,Records & Compliance,as field hunter i want tag new hauntings with GPS and folklore info but also detect only one ghost at time.,PROBLEM
+103,Records & Compliance,As a field agent I want silver net to auto-tighten when a vampire hits it so that I can plan my approach safely.,GOOD
+104,Customer Interface,As a archivist I want crossbow calibration tool so that future hunts are easier but also detect only one ghost at time.,PROBLEM
+105,Records & Compliance,As a customer I need automatic flight paths for night extractions so I can work solo.,PROBLEM
+106,Records & Compliance,As a dispatcher I want book an emergency exorcism online so that I can track specimens.,GOOD
+107,Weapons & Gear,As a field agent I want book an emergency exorcism online so that SpecterTek can respond quickly.,GOOD
+108,Dispatch & Logistics,As a property manager I want zombie cages to log entry and exit times so that we always have the right skills.,GOOD
+109,Weapons & Gear,as property manager i want vampire tracker but also blocked weekends but also accept bookings weekends.,PROBLEM
+110,Detection & Tracking,as property manager i want my ghost radar to detect multiple entities at once but also provide silver ammo but also plastic ammo.,PROBLEM
